@@ -8,6 +8,6 @@ package Percistance;
  *
  * @author hp
  */
-public interface DepartmentPersistance {
+public class DepartmentPersistance implements IDepartmentPersistance{
     
 }
